@@ -1,0 +1,2 @@
+[console_scripts]
+led_publisher = led_commander.led_publisher:main

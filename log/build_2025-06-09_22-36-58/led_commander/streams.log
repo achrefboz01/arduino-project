@@ -1,0 +1,37 @@
+[1.973s] Invoking command in '/home/boz/rasp/src/led_commander': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/boz/rasp/build/led_commander/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/boz/rasp/install/led_commander/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/led_commander build --build-base /home/boz/rasp/build/led_commander/build install --record /home/boz/rasp/build/led_commander/install.log --single-version-externally-managed install_data
+[2.340s] running egg_info
+[2.342s] creating ../../build/led_commander/led_commander.egg-info
+[2.368s] writing ../../build/led_commander/led_commander.egg-info/PKG-INFO
+[2.369s] writing dependency_links to ../../build/led_commander/led_commander.egg-info/dependency_links.txt
+[2.369s] writing entry points to ../../build/led_commander/led_commander.egg-info/entry_points.txt
+[2.369s] writing requirements to ../../build/led_commander/led_commander.egg-info/requires.txt
+[2.369s] writing top-level names to ../../build/led_commander/led_commander.egg-info/top_level.txt
+[2.369s] writing manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+[2.421s] reading manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+[2.422s] writing manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+[2.423s] running build
+[2.423s] running build_py
+[2.423s] creating /home/boz/rasp/build/led_commander/build
+[2.425s] creating /home/boz/rasp/build/led_commander/build/lib
+[2.425s] creating /home/boz/rasp/build/led_commander/build/lib/led_commander
+[2.425s] copying led_commander/__init__.py -> /home/boz/rasp/build/led_commander/build/lib/led_commander
+[2.426s] copying led_commander/led_publisher.py -> /home/boz/rasp/build/led_commander/build/lib/led_commander
+[2.426s] running install
+[2.433s] running install_lib
+[2.458s] creating /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+[2.459s] copying /home/boz/rasp/build/led_commander/build/lib/led_commander/__init__.py -> /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+[2.459s] copying /home/boz/rasp/build/led_commander/build/lib/led_commander/led_publisher.py -> /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+[2.459s] byte-compiling /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander/__init__.py to __init__.cpython-312.pyc
+[2.462s] byte-compiling /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander/led_publisher.py to led_publisher.cpython-312.pyc
+[2.464s] running install_data
+[2.469s] creating /home/boz/rasp/install/led_commander/share/ament_index
+[2.470s] creating /home/boz/rasp/install/led_commander/share/ament_index/resource_index
+[2.470s] creating /home/boz/rasp/install/led_commander/share/ament_index/resource_index/packages
+[2.470s] copying resource/led_commander -> /home/boz/rasp/install/led_commander/share/ament_index/resource_index/packages
+[2.470s] copying package.xml -> /home/boz/rasp/install/led_commander/share/led_commander
+[2.470s] running install_egg_info
+[2.500s] Copying ../../build/led_commander/led_commander.egg-info to /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander-0.0.0-py3.12.egg-info
+[2.503s] running install_scripts
+[2.700s] Installing led_publisher script to /home/boz/rasp/install/led_commander/lib/led_commander
+[2.701s] writing list of installed files to '/home/boz/rasp/build/led_commander/install.log'
+[2.763s] Invoked command in '/home/boz/rasp/src/led_commander' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/boz/rasp/build/led_commander/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/boz/rasp/install/led_commander/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/led_commander build --build-base /home/boz/rasp/build/led_commander/build install --record /home/boz/rasp/build/led_commander/install.log --single-version-externally-managed install_data

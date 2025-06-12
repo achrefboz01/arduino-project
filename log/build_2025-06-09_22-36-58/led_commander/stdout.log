@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/led_commander/led_commander.egg-info
+writing ../../build/led_commander/led_commander.egg-info/PKG-INFO
+writing dependency_links to ../../build/led_commander/led_commander.egg-info/dependency_links.txt
+writing entry points to ../../build/led_commander/led_commander.egg-info/entry_points.txt
+writing requirements to ../../build/led_commander/led_commander.egg-info/requires.txt
+writing top-level names to ../../build/led_commander/led_commander.egg-info/top_level.txt
+writing manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+reading manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+writing manifest file '../../build/led_commander/led_commander.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/boz/rasp/build/led_commander/build
+creating /home/boz/rasp/build/led_commander/build/lib
+creating /home/boz/rasp/build/led_commander/build/lib/led_commander
+copying led_commander/__init__.py -> /home/boz/rasp/build/led_commander/build/lib/led_commander
+copying led_commander/led_publisher.py -> /home/boz/rasp/build/led_commander/build/lib/led_commander
+running install
+running install_lib
+creating /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+copying /home/boz/rasp/build/led_commander/build/lib/led_commander/__init__.py -> /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+copying /home/boz/rasp/build/led_commander/build/lib/led_commander/led_publisher.py -> /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander
+byte-compiling /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander/led_publisher.py to led_publisher.cpython-312.pyc
+running install_data
+creating /home/boz/rasp/install/led_commander/share/ament_index
+creating /home/boz/rasp/install/led_commander/share/ament_index/resource_index
+creating /home/boz/rasp/install/led_commander/share/ament_index/resource_index/packages
+copying resource/led_commander -> /home/boz/rasp/install/led_commander/share/ament_index/resource_index/packages
+copying package.xml -> /home/boz/rasp/install/led_commander/share/led_commander
+running install_egg_info
+Copying ../../build/led_commander/led_commander.egg-info to /home/boz/rasp/install/led_commander/lib/python3.12/site-packages/led_commander-0.0.0-py3.12.egg-info
+running install_scripts
+Installing led_publisher script to /home/boz/rasp/install/led_commander/lib/led_commander
+writing list of installed files to '/home/boz/rasp/build/led_commander/install.log'
